@@ -19,7 +19,7 @@ src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 -------
 <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=cyan&center=true&vCenter=true&multiline=false&lines=`🔰𝗥𝗮𝗵𝗮𝘁_𝗕𝗼𝘁🔰`" alt="">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=cyan&center=true&vCenter=true&multiline=false&lines=`🔰Shuvo_Bot🔰`" alt="">
 </p>
 
 # 🔰Shuvo🔰 - By Shuvo islam
